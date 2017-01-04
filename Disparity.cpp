@@ -1,3 +1,5 @@
+// skuska zmeny
+
 #include "opencv2/opencv.hpp"
 #include "opencv2/ximgproc/disparity_filter.hpp"
 #include <stdio.h>
