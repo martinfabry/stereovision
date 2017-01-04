@@ -1,4 +1,4 @@
-// skuska zmeny
+// skuska zmeny toto som ja pisal
 
 #include "opencv2/opencv.hpp"
 #include "opencv2/ximgproc/disparity_filter.hpp"
